@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="shortcut icon" type="image/png" href="../logo.png" />
+  <title>Inside Movie </title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Nova Flat' rel='stylesheet'>
+  <link rel="stylesheet" type="text/css" media="screen" href="../style.css" />
+  <link href='https://unpkg.com/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
+  <!-- <script src="main.js"></script> -->
+</head>
+
+<body>
+  <header>
+    <div class="header_container">
+
+      <a href="../index.html" class="logo_anchor">
+        <div class="logo_holder">
+        </div>
+      </a>
+
+      <div class="search_bar_container">
+        <form class="main_search_shows_form main_search_form_style">
+          <input class="search_input_style search_shows_input" type="search" name="search" placeholder="Search shows by title...">
+          <div class="search_show_name_suggest">
+
+          </div>
+        </form>
+        <i class="fa fa-search"></i>
+        <i class="close_search_bar fa fa-times"></i>
+      </div>
+
+      <div class="mobile_main_menu">
+        <i class="fa fa-bars"></i>
+      </div>
+
+      <ul class="main_menu">
+        <li class="home">
+          <a href="../index.html">
+            Home
+          </a>
+        </li>
+        <li class="tv_shows">
+          <a href="../shows/tv_shows.html">
+            Tv Shows
+          </a>
+        </li>
+        <!-- <li class="movies">
+                Movies
+              </li> -->
+        <li class="list_menu">
+          Menu
+        </li>
+      </ul>
+
+
+    </div>
+  </header>
+
+
+  <div class="main_menu_modal">
+    <div class="main_menu_wrapper">
+      <div class="movies_main_menu">
+        <div class="movies_main_wrapper">
+          <div class="movie_menu_intro">
+            <i class="fa fa-film"></i>
+            <h1 class="movie_menu_header">
+              <a href="../index.html">
+              Movies
+            </a>
+            </h1>
+          </div>
+          <div class="movie_menu_categories">
+
+            <h4>
+              <a href="../categories/now_playing.html">
+                Now Playing Movies
+              </a>
+            </h4>
+
+            <h4>
+              <a href="../categories/popular_movies.html">
+                Popular Movies
+              </a>
+            </h4>
+
+            <h4>
+              <a href="../categories/top_rated_movies.html">
+                Top Rated Movies
+              </a>
+            </h4>
+
+            <h4>
+              <a href="../categories/upcoming_movies.html">
+                Upcoming Movies
+              </a>
+            </h4>
+
+
+            <h4>
+              <a href="../genre/movies_genre.html">
+                Search Movies By Genre
+              </a>
+            </h4>
+
+          </div>
+        </div>
+      </div>
+      <div class="shows_main_menu">
+        <div class="shows_main_wrapper">
+          <div class="shows_menu_intro">
+            <i class="fa fa-tv"></i>
+            <h1 class="shows_menu_header">
+              <a href="../shows/tv_shows.html">
+              Tv Shows
+            </a>
+            </h1>
+
+          </div>
+
+          <div class="shows_menu_categories">
+            <h4>
+              <a href="../categories/airing_today.html">
+                Shows Airing Today
+              </a>
+            </h4>
+
+            <h4>
+              <a href="../categories/popular_shows.html">
+                Popular Shows
+              </a>
+            </h4>
+
+            <h4>
+              <a href="../categories/top_rated_shows.html">
+                Top Rated Shows
+              </a>
+            </h4>
+
+            <h4>
+              <a href="../genre/tv_shows_genre.html">
+                Search Tv Shows By Genre
+              </a>
+            </h4>
+          </div>
+
+        </div>
+      </div>
+      <div class="close_menu">
+        <i class="close_menu_icon fa fa-times"></i>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="search_show_modal">
+    <div class="close_search_show_modal">
+      <i class='bx bx-x-circle'></i>
+    </div>
+   
+    <div class="search_show_modal_main_container">
+
+    </div>
+  </div>
+
+
+  <div class="show_details_main_wrapper">
+
+    <!-- <div class="movie_details_main_container">
+      <div class="details_poster_wrapper">
+        <div class="details_poster_container">
+
+        </div>
+      </div>
+
+
+      <div class="details_backdrop_container">
+        <div class="details_box">
+          <div class="details_movie_name">
+            <h1 class="details_name_header">The Gentleman</h1>
+            <div class="details_button_container">
+              <a class="go_back_link">
+                <div class="details_go_back_button">
+                  <i class="fa fa-arrow-left"></i>
+                  <p class="details_go_back">Go Back</p>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="details_rating">
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <p class="details_rating_number">5.8</p>
+          </div>
+          <div class="all_details_container">
+            <p class="release_date">Release date: 2018-02-05</p>
+            <p class="movie_budget">Budget: 22000000$</p>
+            <p class="movie_duration">Duration: 113 min.</p>
+            <p class="original_title">Original title: "The Gentlemen"</p>
+            <p class="genre_names">Genre: Action, Comedy, Crime</p>
+            <p class="movie_overview">Overview: "American expat Mickey Pearson has built a highly profitable marijuana
+              empire in London. When word gets out that he’s looking to cash out of the business forever it triggers
+              plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him."</p>
+          </div>
+        </div>
+      </div>
+    </div> -->
+  </div>
+
+
+  <footer>
+    <div class="copyright">
+      <p class="copyright_name">
+        Copyright 
+        <i class="fa fa-copyright"></i>
+        2020 Stefan Kostovski
+      </p>
+    </div>
+  </footer>
+  
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous">
+    </script>
+
+  <script src="../persistance/persistance.js"></script>
+  <script src="../data/data.js"></script>
+  <script src="../business/business.js"></script>
+  <script src="../presentation/presentation.js"></script>
+  <script src="../main.js"></script>
+</body>
+
+</html>

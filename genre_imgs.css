@@ -1,0 +1,139 @@
+.action_movie_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/upUy2QhMZEmtypPW3PdieKLAHxh.jpg");
+}
+
+.adventure_movie_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/oLma4sWjqlXVr0E3jpaXQCytuG9.jpg");
+}
+
+.animation_movie_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/xFxk4vnirOtUxpOEWgA1MCRfy6J.jpg");
+}
+
+.comedy_movie_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/88r25ghJzVYKq0vaOApqEOZsQlD.jpg");
+}
+
+.crime_movie_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg");
+}
+
+.documentary_movie_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/cxveaGWXGAzo5vvjpTHnVcu8dge.jpg");
+}
+
+.drama_movie_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/bdmyvEdrmnj7J3RWaKXEOwYggRv.jpg");
+}
+
+.family_movie_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/yalJdTsb6EcDX5devj2ltWXuceO.jpg");
+}
+
+.fantasy_movie_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/hziiv14OpD73u9gAak4XDDfBKa2.jpg");
+}
+
+.history_movie_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/wEmexPKgF2sgYvvl6MxI5rTn2qM.jpg");
+}
+
+.horror_movie_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/8moTOzunF7p40oR5XhlDvJckOSW.jpg");
+}
+
+.music_movie_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/mnDvPokXpvsdPcWSjNRPhiiLOKu.jpg");
+}
+
+.mystery_movie_genre{
+    background-image: url("http://image.tmdb.org/t/p/w300/2J283YNxKhxAqHeVegUJ5mzLfGb.jpg");
+}
+
+.romance_movie_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/uZTtVdOEIwPA6vwVRI3217DoPM.jpg");
+}
+
+.science_fiction_movie_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/38nPzYkleyaewfgmzZsH0BoPI5e.jpg");
+}
+
+.tv_movie_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/j5Hu6iQmwA1qNsjZ1HYiLju3VqD.jpg");
+}
+
+.thriller_movie_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/lYJDf7oa1r9JvRITN1M2Lzis01D.jpg");
+}
+
+.war_movie_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/pN9qGW2zWKKwLx6OFh9ylpk6YER.jpg");
+}
+
+.western_movie_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/9gMkOYzk7P9QXwndhLRAC8cMZcJ.jpg");
+}
+
+.action_adventure_show_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/4Y1nxoNFdPqPFvmmR9r0HXuP0mE.jpg");
+}
+
+.animation_show_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/5zS9trn5k6T6Oew85ZIEKUfRo91.jpg");
+}
+
+.comedy_show_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/eU1ejjxPMxlCq3JS5EvL49B8XO3.jpg");
+}
+
+.crime_show_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/4VuCtYBvZGq6Rk3gloigwlsTefE.jpg");
+}
+
+.documentary_show_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/2Nwbv0hrN8sThLvgooShcPqmFrO.jpg");
+}
+
+.drama_show_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/colNDt09PACkwtCgWILJQ8i6vSR.jpg");
+}
+
+.family_show_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/3Ff3TymR66yDC85rnpxLZbl1x0q.jpg");
+}
+
+.kids_show_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/fu2OIK3X1VWpQGhJPw2IWmoMu89.jpg");
+}
+
+.mystery_show_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/8YWQ1JrA4fihMwf9kYvGtd6mSe0.jpg");
+}
+
+.news_show_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg");
+}
+
+.reality_show_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/te0cPdOhB4vCWuZoaM6MeKFvLy1.jpg");
+}
+
+.sci-fi_fantasy_show_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/lXWgVQ1whAEMz4Ju88UyPoveIKD.jpg");
+}
+
+.soap_show_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/wG6mZsEvglT73RJl5aDyv22PPub.jpg");
+}
+
+.talk_show_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/2pJYis3LUEgFC3UErTQVgmUV1hN.jpg");
+}
+
+.war_politics_show_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/29JYJokZaZJg7SWXnw7FsnTntew.jpg");
+}
+
+.western_show_genre{
+    background-image: url("https://image.tmdb.org/t/p/w300/efmDi0xizy0ywF9iYu6A0AKAUxR.jpg");
+}
