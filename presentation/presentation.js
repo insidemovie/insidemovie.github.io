@@ -3033,7 +3033,7 @@ function PresentationLayer() {
         var idNum;
         $(".more_info_button").on("click", async event => {
             var movieId = $(event.target).attr('id');
-            var backPage = "../index/index.html";
+            var backPage = "../index.html";
             sessionStorage.setItem('backPage', backPage)
             sessionStorage.setItem('movieId', movieId);
             window.location = "../details/movie_details.html";
