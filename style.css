@@ -1729,7 +1729,8 @@ margin-right: 10px;
 
     .previous_row_1_box4{
         position: absolute;
-        margin-left: 30px;
+/*         margin-left: 30px; */
+            margin-right: -30px;
     }
 
     .next_row_1_box4{
@@ -1739,7 +1740,8 @@ margin-right: 10px;
 
     .previous_row_2_box4{
         position: absolute;
-        margin-left: 30px;
+/*         margin-left: 30px; */
+        margin-right: -30px;
     }
 
     .next_row_2_box4{
@@ -1771,7 +1773,8 @@ margin-right: 10px;
 
     .previous_popular_show_row_box4 {
         position: absolute;
-        margin-left: 30px;
+/*         margin-left: 30px; */
+        margin-right: -30px;
     }
 
     .next_popular_show_row_box4{
@@ -1781,7 +1784,8 @@ margin-right: 10px;
 
     .previous_top_rated_show_row_box4{
         position: absolute;
-        margin-left: 30px;
+/*         margin-left: 30px; */
+        margin-right: -30px;
     }
 
     .next_top_rated_show_row_box4{
