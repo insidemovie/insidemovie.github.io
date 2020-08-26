@@ -1593,8 +1593,7 @@ margin-right: 10px;
 
 .previous_row_box4{
     position: absolute;
-/*     margin-left: 30px; */
-    margin-right: -30px;
+    margin-left: 30px;
 }
 
 .next_row_box4{
